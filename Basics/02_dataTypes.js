@@ -23,13 +23,15 @@ x = "Vale" //same variable holding different Datatypes
 // let y = BigInt("Number in string");
 // console.log(y);
 
-let arr = [1,2]
-console.log(typeof(arr))// Type of variable or expression
+// let arr = [1,2]
+// console.log(typeof(arr))// Type of variable or expression
 
 // Empty variable
 
-arr = undefined
-console.log(typeof(arr))
+// arr = undefined
+// console.log(typeof(arr))
+
+console.log(typeof null)// Type is Object!
 
 // let str = ""// It is empty not undefined.
 
